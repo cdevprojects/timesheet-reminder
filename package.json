@@ -1,0 +1,30 @@
+{
+  "name": "timesheet-reminder",
+  "version": "1.0.0",
+  "description": "\"# timesheet-reminder\"",
+  "main": "background.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdevprojects/timesheet-reminder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cdevprojects/timesheet-reminder/issues"
+  },
+  "homepage": "https://github.com/cdevprojects/timesheet-reminder#readme",
+  "devDependencies": {
+    "node-sass": "^4.9.2",
+    "sass-loader": "^7.1.0",
+    "style-loader": "^0.21.0",
+    "webpack": "^4.16.3",
+    "webpack-cli": "^3.1.0"
+  },
+  "dependencies": {
+    "css-loader": "^1.0.0"
+  }
+}
